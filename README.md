@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Pandas_(software)
 
 Este ejercico está enfocado en el uso de Pandas (una biblioteca muy usada de Python).
 
-Se tiene dos datasets (enviados por mail):
+Se tiene dos datasets (que se encuentran en la carpeta datasets):
 
 Uno contiene las órdenes hechas a un cierto restaurant. Tenemos los campos order_id, product_id y order_date.
 
